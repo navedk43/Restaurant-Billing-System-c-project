@@ -21,4 +21,5 @@ Compile the restaurant_billing.c file using a C compiler.
 Run the compiled executable to launch the billing system.
 Follow the on-screen prompts to perform desired operations like generating invoices, viewing all invoices, or searching for specific invoices.
 The system provides an intuitive interface for easy navigation and usage.
+
 ========================================================================================================================================================================================
